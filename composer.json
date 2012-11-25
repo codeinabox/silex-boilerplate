@@ -1,0 +1,7 @@
+{
+    "require": {
+        "silex/silex": "1.0.*@dev",
+        "monolog/monolog": "1.2.1",
+        "zendframework/zendframework" : "2.0.4"
+    }
+}
